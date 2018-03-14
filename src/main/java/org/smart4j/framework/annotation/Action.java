@@ -16,7 +16,7 @@ import java.lang.annotation.Target;
 public @interface Action {
 
     /**
-     * 请求类型与路径
+     * 请求类型与路径7777
      */
     String value();
 }
