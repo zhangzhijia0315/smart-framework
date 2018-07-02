@@ -14,6 +14,9 @@ public class View {
     /**
      * 视图路径
      */
+    /**
+     * 视图路径
+     */
     private String path;
 
     /**
